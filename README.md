@@ -1,6 +1,5 @@
-==================
-Capital One Challenge
-==================
+#Capital One Challenge
+
 Pulls Instagram posts of #CapitalOne and analyzes sentiment. Used D3.js, bottle, and custom sentiment analyzer. Created for Capital One Challenge.
 
 ##Launching Script and App
